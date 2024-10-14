@@ -1,0 +1,7 @@
+iCATCH - iOS Cache Analysis for Tracking Coordinates History License Disclaimer (C)2024
+
+This script and executable are provided for open use and is intended for educational and non-commercial purposes only. You may use, modify, and distribute this script freely, provided that it is not included in any commercial or paid-for software without explicit permission from the author.
+
+The author, makes no representations or warranties about the suitability or accuracy of this script for any purpose. Use it at your own risk. The author shall not be liable for any damages arising from the use or inability to use this script.
+
+By using this script, you agree to these terms.
